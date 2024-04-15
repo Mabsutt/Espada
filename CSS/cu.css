@@ -1,0 +1,40 @@
+.contactInfo
+{
+    padding-top: 40px ;
+    
+    text-align: center;
+}
+.title
+{
+    color: #515169;
+    text-transform: uppercase;
+    
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    font-weight: bolder;
+
+}
+.contactInfo ul
+{
+    position: relative;
+}
+.contactInfo ul li
+{
+    position: relative;
+    list-style: none;
+    margin: 10px 0;
+    cursor: pointer;
+}
+.contactInfo ul li .icon
+{
+    display: inline-block;
+    width: 20px;
+    font-size: 20px;
+    color: #03a9f4;
+}
+.contactInfo ul li span
+{
+    color: #515169;
+    font-size: 25px;
+}
